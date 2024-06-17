@@ -1,3 +1,7 @@
+# Smart-Attendance-System
+## Freelancing Project 
+
+## Steps:
 Step 1: Check your Python Environment properly
 
 Step 2: Install all packages using this code
@@ -7,7 +11,7 @@ Step 3: use this command to run Streamlit
 	Make Sure You are in the project's path
 
 	streamlit run app.py 
-	
+
 	replace app.py if you changed file name
 
 Step 4: In Navigation in Left side
@@ -43,7 +47,7 @@ Step 7: Click on Mark Attendance
 	go to terminal and use Ctrl+C
 	and rerun streamlit run app.py
 	then again click on Mark your attendance
-	
+
 	Important keywords:
 
 		'a' : To mark captured attendance
