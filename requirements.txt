@@ -1,5 +1,3 @@
-re
-time
 zipfile
 opencv-python
 face_recognition
