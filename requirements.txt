@@ -1,0 +1,17 @@
+datetime
+os
+random
+re
+time
+zipfile
+opencv-python
+face_recognition
+matplotlib
+numpy
+pandas
+streamlit
+Pillow
+mlxtend
+scikit-image
+scikit-learn
+tensorflow
